@@ -1,0 +1,19 @@
+{
+  "name": "facturas-app",
+  "version": "1.0.0",
+  "description": "Aplicacion para leer y exportar facturas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioK35/Facturas-app.git"
+  },
+  "author": "mpinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioK35/Facturas-app/issues"
+  },
+  "homepage": "https://github.com/MarioK35/Facturas-app#readme"
+}
